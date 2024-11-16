@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif; /* Alteração na fonte */
+  background-color: #f0f8ff; /* Fundo azul claro */
+  color: #444; /* Texto cinza escuro */
+}
+
+button {
+  background-color: #4caf50; /* Fundo verde */
+  color: white; /* Texto branco */
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049; /* Verde mais escuro ao passar o mouse */
+}
